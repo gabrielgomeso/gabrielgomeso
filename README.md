@@ -1,5 +1,15 @@
-Hello stranger! I'm Gabriel.
+Hello stranger! 
 
-I'm a programming student from Brazil trying to learn ReactJS and React Native. Later on I'll be studying GatsbyJS. I'm interested in studying mobile development with Swift or Kotlin, but didn't decided about it yet.
-I’m currently learning CSS features like grid and flexbox. Also starting to learn ReactJS.
-My major goal is to become a developer and travel around the world because of it.
+My name is Gabriel, I'm a software developer in formation. At the time (jan/2021), I'm able to understand and/or write some code with:
+- HTML and CSS;
+- Javascript;
+- ReactJS and a little bit of React Native;
+- Ruby / Ruby on Rails;
+- PHP;
+- MySQL.
+
+Goals:
+- Become a well paid developer :D
+- Travel the world
+
+I'm a simple guy, don't need a lot of things hehe.
