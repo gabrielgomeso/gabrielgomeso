@@ -7,7 +7,7 @@ You see, I started coding when I was 15 in 2014, but I stopped it to go to law s
 - Build stuff with the amazing Ruby and its pal Ruby on Rails;
 - Do some little things with PHP, MySQL, Bootstrap, etc.
 
-Currently, I work at @quero-edu as a Web Operations Intern, mainly using RoR to help people maintain the products "Quero Pago" and "Quero Bolsa"
+Currently, I work at @quero-edu as a Web Development Intern, mainly using RoR to help people maintain the products "Quero Pago" and "Quero Bolsa"
 
 :rocket: My main goal is to travel around the world while working with big projects and great people :smile:
 
