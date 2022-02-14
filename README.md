@@ -9,4 +9,4 @@ You see, I started coding when I was 15 in 2014, but I stopped it to go to law s
 
 :rocket: My main goal is to travel around the world while working with big projects and great people :smile:
 
-You can see more about me at [gabrielgo.dev](gabrielgo.dev)
+You can see more about me at [https://gabrielgo.dev](gabrielgo.dev)
