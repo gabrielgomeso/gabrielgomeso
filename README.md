@@ -1,6 +1,5 @@
 Software Developer from Brazil 🇧🇷
 
-70% front-end 30% back-end (but that can change)
 
 Preferable tech stack:
 - VueJS
